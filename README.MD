@@ -1,8 +1,9 @@
-## GDR: Improve Multi Transportation Performances on Link-coupled Networks by Global Dynamic Routing
-
+## Simultaneous Improvement of Multiple Transportation Performances on Link-coupledmNetworks by Global Dynamic Routing
 
 ###Introduction
-This is an official release of the paper **Improve Multi Transportation Performances on Link-coupled Networks by Global Dynamic Routing**. 
+
+
+This is an official release of the paper **Simultaneous Improvement of Multiple Transportation Performances on Link-coupled Networks by Global Dynamic Routing**. 
 The GDR is used to optimize transportation on the link-coupled networks.
 
 ### Description
